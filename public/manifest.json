@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "DayDayUp",
+  "version": "1.0.0",
+  "description": "选择生日，收下今日的星座好运气。",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": []
+}
